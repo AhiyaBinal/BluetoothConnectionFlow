@@ -19,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B1258FBD29B99A47004423C1 /* Screenshot.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.PNG; sourceTree = "<group>"; };
 		B14355F129B9093100B6A99E /* BluetoothScannerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothScannerModel.swift; sourceTree = "<group>"; };
 		B14355F329B9146500B6A99E /* BluetoothScannerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothScannerViews.swift; sourceTree = "<group>"; };
 		B173E4C529B652F600F3A965 /* ApolloTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApolloTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -43,6 +44,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B1258FBC29B99A2C004423C1 /* Screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				B1258FBD29B99A47004423C1 /* Screenshot.PNG */,
+			);
+			path = Screenshot;
+			sourceTree = "<group>";
+		};
 		B173E4BC29B652F600F3A965 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +71,7 @@
 		B173E4C729B652F600F3A965 /* ApolloTask */ = {
 			isa = PBXGroup;
 			children = (
+				B1258FBC29B99A2C004423C1 /* Screenshot */,
 				B173E4C829B652F600F3A965 /* AppDelegate.swift */,
 				B173E4CA29B652F600F3A965 /* SceneDelegate.swift */,
 				B173E4FA29B6943E00F3A965 /* ContentView.swift */,
