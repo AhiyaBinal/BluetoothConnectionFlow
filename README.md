@@ -40,11 +40,11 @@ MVVM, or Model-View-ViewModel, is a design pattern that is  used to achieve **Se
 
 ### Use of Apple Combine with core bluetooth framework 
 
--** Simplified data management:** Core Bluetooth is an asynchronous data stream, and Combine provides a declarative way to manage those streams. By using Combine, you can simplify the code that manages the data from Core Bluetooth and make it more readable and easier to understand.
+- **Simplified data management:** Core Bluetooth is an asynchronous data stream, and Combine provides a declarative way to manage those streams. By using Combine, you can simplify the code that manages the data from Core Bluetooth and make it more readable and easier to understand.
 
--** Error handling:** Combine provides a powerful error-handling mechanism that helps you to handle errors in a consistent and efficient way, reducing the likelihood of crashes or other unexpected behaviours. This is particularly important when working with Bluetooth, as there are many potential errors that can occur.
+- **Error handling:** Combine provides a powerful error-handling mechanism that helps you to handle errors in a consistent and efficient way, reducing the likelihood of crashes or other unexpected behaviours. This is particularly important when working with Bluetooth, as there are many potential errors that can occur.
 
--** Integration with SwiftUI:** Combine is tightly integrated with Apple's SwiftUI framework, which allows you to create user interfaces that respond to changes in the underlying data. This makes it easier to build complex UIs and manage data flow between your app's various components.
+- **Integration with SwiftUI:** Combine is tightly integrated with Apple's SwiftUI framework, which allows you to create user interfaces that respond to changes in the underlying data. This makes it easier to build complex UIs and manage data flow between your app's various components.
 
 
 ####  Use of Swift UI 
