@@ -49,6 +49,11 @@ MVVM, or Model-View-ViewModel, is a design pattern that is  used to achieve **Se
 
 ####  Use of Swift UI 
 Swift UI is a relatively light weight framework and provides various advantages 
-- **Declarative Syntax: **SwiftUI uses a declarative syntax that makes it easier to read, understand and write code. 
+- **Declarative Syntax:** SwiftUI uses a declarative syntax that makes it easier to read, understand and write code. 
 - **Live Preview:** SwiftUI provides a live preview feature that allows developers to see their changes in real-time as they make them.
 - **Combine:** SwiftUI works seamlessly with Apple Combine framework
+
+
+### Screens
+
+<img src="./ApolloTask/Screenshot/Screenshot.PNG" alt="alt text" width="200"/>
